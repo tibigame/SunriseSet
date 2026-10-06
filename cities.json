@@ -1,0 +1,2607 @@
+{
+  "schema_version": 1,
+  "coordinate_status": "approximate_representative_points",
+  "cities": [
+    {
+      "id": "jp-sapporo",
+      "name": {"ja":"札幌","en":"Sapporo"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 43.062,
+      "longitude": 141.354,
+      "timezone": "Asia/Tokyo",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-sendai",
+      "name": {"ja":"仙台","en":"Sendai"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 38.268,
+      "longitude": 140.87,
+      "timezone": "Asia/Tokyo",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-tokyo",
+      "name": {"ja":"東京","en":"Tokyo"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 35.682,
+      "longitude": 139.759,
+      "timezone": "Asia/Tokyo",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-yokohama",
+      "name": {"ja":"横浜","en":"Yokohama"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 35.4437,
+      "longitude": 139.638,
+      "timezone": "Asia/Tokyo",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-nagoya",
+      "name": {"ja":"名古屋","en":"Nagoya"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 35.1815,
+      "longitude": 136.9066,
+      "timezone": "Asia/Tokyo",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-kyoto",
+      "name": {"ja":"京都","en":"Kyoto"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 35.012,
+      "longitude": 135.768,
+      "timezone": "Asia/Tokyo",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-osaka",
+      "name": {"ja":"大阪","en":"Osaka"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 34.694,
+      "longitude": 135.502,
+      "timezone": "Asia/Tokyo",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-fukuoka",
+      "name": {"ja":"福岡","en":"Fukuoka"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 33.5904,
+      "longitude": 130.4017,
+      "timezone": "Asia/Tokyo",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-yakushima",
+      "name": {"ja":"屋久島","en":"Yakushima"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 30.3585,
+      "longitude": 130.5126,
+      "timezone": "Asia/Tokyo",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-amami-oshima",
+      "name": {"ja":"奄美大島","en":"Amami Oshima"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 28.3792,
+      "longitude": 129.495,
+      "timezone": "Asia/Tokyo",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-ogasawara-chichijima",
+      "name": {"ja":"小笠原諸島（父島）","en":"Ogasawara (Chichijima)"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 27.0954,
+      "longitude": 142.1923,
+      "timezone": "Asia/Tokyo",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"父島","en":"Chichijima"},
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-naha",
+      "name": {"ja":"那覇","en":"Naha"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 26.212,
+      "longitude": 127.681,
+      "timezone": "Asia/Tokyo",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-miyako-island",
+      "name": {"ja":"宮古島","en":"Miyako Island"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 24.8055,
+      "longitude": 125.2811,
+      "timezone": "Asia/Tokyo",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jp-ishigaki-island",
+      "name": {"ja":"石垣島","en":"Ishigaki Island"},
+      "country_region": {"code":"JP","ja":"日本","en":"Japan"},
+      "latitude": 24.3448,
+      "longitude": 124.1572,
+      "timezone": "Asia/Tokyo",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kr-seoul",
+      "name": {"ja":"ソウル","en":"Seoul"},
+      "country_region": {"code":"KR","ja":"韓国","en":"South Korea"},
+      "latitude": 37.566,
+      "longitude": 126.978,
+      "timezone": "Asia/Seoul",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kr-busan",
+      "name": {"ja":"釜山","en":"Busan"},
+      "country_region": {"code":"KR","ja":"韓国","en":"South Korea"},
+      "latitude": 35.1796,
+      "longitude": 129.0756,
+      "timezone": "Asia/Seoul",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kr-jeju-island",
+      "name": {"ja":"済州島","en":"Jeju Island"},
+      "country_region": {"code":"KR","ja":"韓国","en":"South Korea"},
+      "latitude": 33.4996,
+      "longitude": 126.5312,
+      "timezone": "Asia/Seoul",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kp-pyongyang",
+      "name": {"ja":"平壌","en":"Pyongyang"},
+      "country_region": {"code":"KP","ja":"北朝鮮","en":"North Korea"},
+      "latitude": 39.0392,
+      "longitude": 125.7625,
+      "timezone": "Asia/Pyongyang",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "tl-dili",
+      "name": {"ja":"ディリ","en":"Dili"},
+      "country_region": {"code":"TL","ja":"東ティモール","en":"Timor-Leste"},
+      "latitude": -8.5586,
+      "longitude": 125.5736,
+      "timezone": "Asia/Dili",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "tw-taipei",
+      "name": {"ja":"台北","en":"Taipei"},
+      "country_region": {"code":"TW","ja":"台湾","en":"Taiwan"},
+      "latitude": 25.033,
+      "longitude": 121.565,
+      "timezone": "Asia/Taipei",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "tw-penghu-islands",
+      "name": {"ja":"澎湖諸島","en":"Penghu Islands"},
+      "country_region": {"code":"TW","ja":"台湾","en":"Taiwan"},
+      "latitude": 23.5711,
+      "longitude": 119.5793,
+      "timezone": "Asia/Taipei",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "tw-kaohsiung",
+      "name": {"ja":"高雄","en":"Kaohsiung"},
+      "country_region": {"code":"TW","ja":"台湾","en":"Taiwan"},
+      "latitude": 22.6273,
+      "longitude": 120.3014,
+      "timezone": "Asia/Taipei",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ph-manila",
+      "name": {"ja":"マニラ","en":"Manila"},
+      "country_region": {"code":"PH","ja":"フィリピン","en":"Philippines"},
+      "latitude": 14.5995,
+      "longitude": 120.9842,
+      "timezone": "Asia/Manila",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ph-boracay-island",
+      "name": {"ja":"ボラカイ島","en":"Boracay Island"},
+      "country_region": {"code":"PH","ja":"フィリピン","en":"Philippines"},
+      "latitude": 11.9674,
+      "longitude": 121.9248,
+      "timezone": "Asia/Manila",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ph-cebu",
+      "name": {"ja":"セブ","en":"Cebu"},
+      "country_region": {"code":"PH","ja":"フィリピン","en":"Philippines"},
+      "latitude": 10.3157,
+      "longitude": 123.8854,
+      "timezone": "Asia/Manila",
+      "category": "Tourist Hub / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ph-siargao-island",
+      "name": {"ja":"シアルガオ島","en":"Siargao Island"},
+      "country_region": {"code":"PH","ja":"フィリピン","en":"Philippines"},
+      "latitude": 9.8583,
+      "longitude": 126.0458,
+      "timezone": "Asia/Manila",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ph-palawan-puerto-princesa",
+      "name": {"ja":"パラワン島（プエルト・プリンセサ）","en":"Palawan (Puerto Princesa)"},
+      "country_region": {"code":"PH","ja":"フィリピン","en":"Philippines"},
+      "latitude": 9.7392,
+      "longitude": 118.7353,
+      "timezone": "Asia/Manila",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"プエルト・プリンセサ","en":"Puerto Princesa"},
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-beijing",
+      "name": {"ja":"北京","en":"Beijing"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 39.904,
+      "longitude": 116.407,
+      "timezone": "Asia/Shanghai",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-xian",
+      "name": {"ja":"西安","en":"Xian"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 34.3416,
+      "longitude": 108.9398,
+      "timezone": "Asia/Shanghai",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-nanjing",
+      "name": {"ja":"南京","en":"Nanjing"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 32.0603,
+      "longitude": 118.7969,
+      "timezone": "Asia/Shanghai",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-shanghai",
+      "name": {"ja":"上海","en":"Shanghai"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 31.23,
+      "longitude": 121.474,
+      "timezone": "Asia/Shanghai",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-wuhan",
+      "name": {"ja":"武漢","en":"Wuhan"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 30.5928,
+      "longitude": 114.3055,
+      "timezone": "Asia/Shanghai",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-chengdu",
+      "name": {"ja":"成都","en":"Chengdu"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 30.5728,
+      "longitude": 104.0668,
+      "timezone": "Asia/Shanghai",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-hangzhou",
+      "name": {"ja":"杭州","en":"Hangzhou"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 30.2741,
+      "longitude": 120.1551,
+      "timezone": "Asia/Shanghai",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-chongqing",
+      "name": {"ja":"重慶","en":"Chongqing"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 29.563,
+      "longitude": 106.5516,
+      "timezone": "Asia/Shanghai",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-guangzhou",
+      "name": {"ja":"広州","en":"Guangzhou"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 23.1291,
+      "longitude": 113.2644,
+      "timezone": "Asia/Shanghai",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "cn-shenzhen",
+      "name": {"ja":"深圳","en":"Shenzhen"},
+      "country_region": {"code":"CN","ja":"中国","en":"China"},
+      "latitude": 22.5431,
+      "longitude": 114.0579,
+      "timezone": "Asia/Shanghai",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "bn-bandar-seri-begawan",
+      "name": {"ja":"バンダルスリブガワン","en":"Bandar Seri Begawan"},
+      "country_region": {"code":"BN","ja":"ブルネイ","en":"Brunei"},
+      "latitude": 4.9031,
+      "longitude": 114.9398,
+      "timezone": "Asia/Brunei",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "hk-hong-kong",
+      "name": {"ja":"香港","en":"Hong Kong"},
+      "country_region": {"code":"HK","ja":"香港","en":"Hong Kong"},
+      "latitude": 22.319,
+      "longitude": 114.169,
+      "timezone": "Asia/Hong_Kong",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "mo-macau",
+      "name": {"ja":"マカオ","en":"Macau"},
+      "country_region": {"code":"MO","ja":"マカオ","en":"Macau"},
+      "latitude": 22.1987,
+      "longitude": 113.5439,
+      "timezone": "Asia/Macau",
+      "category": "Tourist Hub / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "mn-ulaanbaatar",
+      "name": {"ja":"ウランバートル","en":"Ulaanbaatar"},
+      "country_region": {"code":"MN","ja":"モンゴル","en":"Mongolia"},
+      "latitude": 47.8864,
+      "longitude": 106.9057,
+      "timezone": "Asia/Ulaanbaatar",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "id-raja-ampat",
+      "name": {"ja":"ラジャ・アンパット諸島","en":"Raja Ampat"},
+      "country_region": {"code":"ID","ja":"インドネシア","en":"Indonesia"},
+      "latitude": -0.2333,
+      "longitude": 130.5167,
+      "timezone": "Asia/Jayapura",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "id-jakarta",
+      "name": {"ja":"ジャカルタ","en":"Jakarta"},
+      "country_region": {"code":"ID","ja":"インドネシア","en":"Indonesia"},
+      "latitude": -6.208,
+      "longitude": 106.846,
+      "timezone": "Asia/Jakarta",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "id-surabaya",
+      "name": {"ja":"スラバヤ","en":"Surabaya"},
+      "country_region": {"code":"ID","ja":"インドネシア","en":"Indonesia"},
+      "latitude": -7.2575,
+      "longitude": 112.7521,
+      "timezone": "Asia/Jakarta",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "id-komodo-island",
+      "name": {"ja":"コモド島","en":"Komodo Island"},
+      "country_region": {"code":"ID","ja":"インドネシア","en":"Indonesia"},
+      "latitude": -8.5833,
+      "longitude": 119.4833,
+      "timezone": "Asia/Makassar",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "id-lombok",
+      "name": {"ja":"ロンボク島","en":"Lombok"},
+      "country_region": {"code":"ID","ja":"インドネシア","en":"Indonesia"},
+      "latitude": -8.6509,
+      "longitude": 116.3249,
+      "timezone": "Asia/Makassar",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "id-bali-denpasar",
+      "name": {"ja":"バリ島（デンパサール）","en":"Bali (Denpasar)"},
+      "country_region": {"code":"ID","ja":"インドネシア","en":"Indonesia"},
+      "latitude": -8.6705,
+      "longitude": 115.2126,
+      "timezone": "Asia/Makassar",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"デンパサール","en":"Denpasar"},
+      "geographic_region": "asia"
+    },
+    {
+      "id": "vn-hanoi",
+      "name": {"ja":"ハノイ","en":"Hanoi"},
+      "country_region": {"code":"VN","ja":"ベトナム","en":"Vietnam"},
+      "latitude": 21.0285,
+      "longitude": 105.8542,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "vn-da-nang",
+      "name": {"ja":"ダナン","en":"Da Nang"},
+      "country_region": {"code":"VN","ja":"ベトナム","en":"Vietnam"},
+      "latitude": 16.0544,
+      "longitude": 108.2022,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "category": "Tourist Hub / Coastal",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "vn-ho-chi-minh-city",
+      "name": {"ja":"ホーチミン","en":"Ho Chi Minh City"},
+      "country_region": {"code":"VN","ja":"ベトナム","en":"Vietnam"},
+      "latitude": 10.8231,
+      "longitude": 106.6297,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "vn-phu-quoc-island",
+      "name": {"ja":"フーコック島","en":"Phu Quoc Island"},
+      "country_region": {"code":"VN","ja":"ベトナム","en":"Vietnam"},
+      "latitude": 10.2899,
+      "longitude": 103.984,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kh-siem-reap",
+      "name": {"ja":"シェムリアップ","en":"Siem Reap"},
+      "country_region": {"code":"KH","ja":"カンボジア","en":"Cambodia"},
+      "latitude": 13.3671,
+      "longitude": 103.86,
+      "timezone": "Asia/Phnom_Penh",
+      "category": "Tourist Hub",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kh-phnom-penh",
+      "name": {"ja":"プノンペン","en":"Phnom Penh"},
+      "country_region": {"code":"KH","ja":"カンボジア","en":"Cambodia"},
+      "latitude": 11.5564,
+      "longitude": 104.9282,
+      "timezone": "Asia/Phnom_Penh",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "sg-singapore",
+      "name": {"ja":"シンガポール","en":"Singapore"},
+      "country_region": {"code":"SG","ja":"シンガポール","en":"Singapore"},
+      "latitude": 1.352,
+      "longitude": 103.82,
+      "timezone": "Asia/Singapore",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "la-luang-prabang",
+      "name": {"ja":"ルアンパバーン","en":"Luang Prabang"},
+      "country_region": {"code":"LA","ja":"ラオス","en":"Laos"},
+      "latitude": 19.8893,
+      "longitude": 102.1356,
+      "timezone": "Asia/Vientiane",
+      "category": "Tourist Hub",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "la-vientiane",
+      "name": {"ja":"ビエンチャン","en":"Vientiane"},
+      "country_region": {"code":"LA","ja":"ラオス","en":"Laos"},
+      "latitude": 17.9757,
+      "longitude": 102.6331,
+      "timezone": "Asia/Vientiane",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "my-langkawi",
+      "name": {"ja":"ランカウイ島","en":"Langkawi"},
+      "country_region": {"code":"MY","ja":"マレーシア","en":"Malaysia"},
+      "latitude": 6.35,
+      "longitude": 99.8,
+      "timezone": "Asia/Kuala_Lumpur",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "my-george-town-penang",
+      "name": {"ja":"ジョージタウン（ペナン島）","en":"George Town (Penang)"},
+      "country_region": {"code":"MY","ja":"マレーシア","en":"Malaysia"},
+      "latitude": 5.4164,
+      "longitude": 100.3327,
+      "timezone": "Asia/Kuala_Lumpur",
+      "category": "Tourist Island / Hub",
+      "representative_point": {"ja":"ジョージタウン","en":"George Town"},
+      "geographic_region": "asia"
+    },
+    {
+      "id": "my-kuala-lumpur",
+      "name": {"ja":"クアラルンプール","en":"Kuala Lumpur"},
+      "country_region": {"code":"MY","ja":"マレーシア","en":"Malaysia"},
+      "latitude": 3.139,
+      "longitude": 101.6869,
+      "timezone": "Asia/Kuala_Lumpur",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "th-chiang-mai",
+      "name": {"ja":"チェンマイ","en":"Chiang Mai"},
+      "country_region": {"code":"TH","ja":"タイ","en":"Thailand"},
+      "latitude": 18.7883,
+      "longitude": 98.9853,
+      "timezone": "Asia/Bangkok",
+      "category": "Tourist Hub / Regional Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "th-bangkok",
+      "name": {"ja":"バンコク","en":"Bangkok"},
+      "country_region": {"code":"TH","ja":"タイ","en":"Thailand"},
+      "latitude": 13.756,
+      "longitude": 100.502,
+      "timezone": "Asia/Bangkok",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "th-koh-samui",
+      "name": {"ja":"サムイ島","en":"Koh Samui"},
+      "country_region": {"code":"TH","ja":"タイ","en":"Thailand"},
+      "latitude": 9.512,
+      "longitude": 100.0136,
+      "timezone": "Asia/Bangkok",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "th-phuket-island",
+      "name": {"ja":"プーケット島","en":"Phuket Island"},
+      "country_region": {"code":"TH","ja":"タイ","en":"Thailand"},
+      "latitude": 7.8804,
+      "longitude": 98.3923,
+      "timezone": "Asia/Bangkok",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "mm-naypyidaw",
+      "name": {"ja":"ネピドー","en":"Naypyidaw"},
+      "country_region": {"code":"MM","ja":"ミャンマー","en":"Myanmar"},
+      "latitude": 19.7633,
+      "longitude": 96.0785,
+      "timezone": "Asia/Yangon",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "mm-yangon",
+      "name": {"ja":"ヤンゴン","en":"Yangon"},
+      "country_region": {"code":"MM","ja":"ミャンマー","en":"Myanmar"},
+      "latitude": 16.8661,
+      "longitude": 96.1951,
+      "timezone": "Asia/Yangon",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "bt-thimphu",
+      "name": {"ja":"ティンプー","en":"Thimphu"},
+      "country_region": {"code":"BT","ja":"ブータン","en":"Bhutan"},
+      "latitude": 27.4728,
+      "longitude": 89.6393,
+      "timezone": "Asia/Thimphu",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "bd-dhaka",
+      "name": {"ja":"ダッカ","en":"Dhaka"},
+      "country_region": {"code":"BD","ja":"バングラデシュ","en":"Bangladesh"},
+      "latitude": 23.81,
+      "longitude": 90.413,
+      "timezone": "Asia/Dhaka",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "np-kathmandu",
+      "name": {"ja":"カトマンズ","en":"Kathmandu"},
+      "country_region": {"code":"NP","ja":"ネパール","en":"Nepal"},
+      "latitude": 27.717,
+      "longitude": 85.324,
+      "timezone": "Asia/Kathmandu",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "lk-colombo",
+      "name": {"ja":"コロンボ","en":"Colombo"},
+      "country_region": {"code":"LK","ja":"スリランカ","en":"Sri Lanka"},
+      "latitude": 6.927,
+      "longitude": 79.861,
+      "timezone": "Asia/Colombo",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "in-new-delhi",
+      "name": {"ja":"ニューデリー","en":"New Delhi"},
+      "country_region": {"code":"IN","ja":"インド","en":"India"},
+      "latitude": 28.614,
+      "longitude": 77.209,
+      "timezone": "Asia/Kolkata",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "in-kolkata",
+      "name": {"ja":"コルカタ","en":"Kolkata"},
+      "country_region": {"code":"IN","ja":"インド","en":"India"},
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "timezone": "Asia/Kolkata",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "in-mumbai",
+      "name": {"ja":"ムンバイ","en":"Mumbai"},
+      "country_region": {"code":"IN","ja":"インド","en":"India"},
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "timezone": "Asia/Kolkata",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "in-chennai",
+      "name": {"ja":"チェンナイ","en":"Chennai"},
+      "country_region": {"code":"IN","ja":"インド","en":"India"},
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "timezone": "Asia/Kolkata",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "in-bengaluru",
+      "name": {"ja":"ベンガルール","en":"Bengaluru"},
+      "country_region": {"code":"IN","ja":"インド","en":"India"},
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "timezone": "Asia/Kolkata",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "in-andaman-islands-port-blair",
+      "name": {"ja":"アンダマン諸島（ポートブレア）","en":"Andaman Islands (Port Blair)"},
+      "country_region": {"code":"IN","ja":"インド","en":"India"},
+      "latitude": 11.6233,
+      "longitude": 92.7265,
+      "timezone": "Asia/Kolkata",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"ポートブレア","en":"Port Blair"},
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kg-bishkek",
+      "name": {"ja":"ビシュケク","en":"Bishkek"},
+      "country_region": {"code":"KG","ja":"キルギス","en":"Kyrgyzstan"},
+      "latitude": 42.8746,
+      "longitude": 74.5698,
+      "timezone": "Asia/Bishkek",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "mv-male-maldives",
+      "name": {"ja":"マレ","en":"Male (Maldives)"},
+      "country_region": {"code":"MV","ja":"モルディブ","en":"Maldives"},
+      "latitude": 4.1755,
+      "longitude": 73.5093,
+      "timezone": "Indian/Maldives",
+      "category": "Capital / Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "pk-islamabad",
+      "name": {"ja":"イスラマバード","en":"Islamabad"},
+      "country_region": {"code":"PK","ja":"パキスタン","en":"Pakistan"},
+      "latitude": 33.6844,
+      "longitude": 73.0479,
+      "timezone": "Asia/Karachi",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "pk-lahore",
+      "name": {"ja":"ラホール","en":"Lahore"},
+      "country_region": {"code":"PK","ja":"パキスタン","en":"Pakistan"},
+      "latitude": 31.5204,
+      "longitude": 74.3587,
+      "timezone": "Asia/Karachi",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "pk-karachi",
+      "name": {"ja":"カラチ","en":"Karachi"},
+      "country_region": {"code":"PK","ja":"パキスタン","en":"Pakistan"},
+      "latitude": 24.8607,
+      "longitude": 67.0011,
+      "timezone": "Asia/Karachi",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kz-astana",
+      "name": {"ja":"アスタナ","en":"Astana"},
+      "country_region": {"code":"KZ","ja":"カザフスタン","en":"Kazakhstan"},
+      "latitude": 51.1694,
+      "longitude": 71.4491,
+      "timezone": "Asia/Almaty",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kz-almaty",
+      "name": {"ja":"アルマトイ","en":"Almaty"},
+      "country_region": {"code":"KZ","ja":"カザフスタン","en":"Kazakhstan"},
+      "latitude": 43.222,
+      "longitude": 76.8512,
+      "timezone": "Asia/Almaty",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "uz-tashkent",
+      "name": {"ja":"タシケント","en":"Tashkent"},
+      "country_region": {"code":"UZ","ja":"ウズベキスタン","en":"Uzbekistan"},
+      "latitude": 41.2995,
+      "longitude": 69.2401,
+      "timezone": "Asia/Tashkent",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "tj-dushanbe",
+      "name": {"ja":"ドゥシャンベ","en":"Dushanbe"},
+      "country_region": {"code":"TJ","ja":"タジキスタン","en":"Tajikistan"},
+      "latitude": 38.5598,
+      "longitude": 68.787,
+      "timezone": "Asia/Dushanbe",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "om-muscat",
+      "name": {"ja":"マスカット","en":"Muscat"},
+      "country_region": {"code":"OM","ja":"オマーン","en":"Oman"},
+      "latitude": 23.588,
+      "longitude": 58.3829,
+      "timezone": "Asia/Muscat",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "tm-ashgabat",
+      "name": {"ja":"アシガバート","en":"Ashgabat"},
+      "country_region": {"code":"TM","ja":"トルクメニスタン","en":"Turkmenistan"},
+      "latitude": 37.9601,
+      "longitude": 58.3261,
+      "timezone": "Asia/Ashgabat",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ae-dubai",
+      "name": {"ja":"ドバイ","en":"Dubai"},
+      "country_region": {"code":"AE","ja":"アラブ首長国連邦","en":"United Arab Emirates"},
+      "latitude": 25.205,
+      "longitude": 55.271,
+      "timezone": "Asia/Dubai",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ae-abu-dhabi",
+      "name": {"ja":"アブダビ","en":"Abu Dhabi"},
+      "country_region": {"code":"AE","ja":"アラブ首長国連邦","en":"United Arab Emirates"},
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "timezone": "Asia/Dubai",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "qa-doha",
+      "name": {"ja":"ドーハ","en":"Doha"},
+      "country_region": {"code":"QA","ja":"カタール","en":"Qatar"},
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "timezone": "Asia/Qatar",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ir-tehran",
+      "name": {"ja":"テヘラン","en":"Tehran"},
+      "country_region": {"code":"IR","ja":"イラン","en":"Iran"},
+      "latitude": 35.6892,
+      "longitude": 51.389,
+      "timezone": "Asia/Tehran",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "bh-manama",
+      "name": {"ja":"マナーマ","en":"Manama"},
+      "country_region": {"code":"BH","ja":"バーレーン","en":"Bahrain"},
+      "latitude": 26.2285,
+      "longitude": 50.586,
+      "timezone": "Asia/Bahrain",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "az-baku",
+      "name": {"ja":"バクー","en":"Baku"},
+      "country_region": {"code":"AZ","ja":"アゼルバイジャン","en":"Azerbaijan"},
+      "latitude": 40.4093,
+      "longitude": 49.8671,
+      "timezone": "Asia/Baku",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "kw-kuwait-city",
+      "name": {"ja":"クウェート市","en":"Kuwait City"},
+      "country_region": {"code":"KW","ja":"クウェート","en":"Kuwait"},
+      "latitude": 29.3759,
+      "longitude": 47.9774,
+      "timezone": "Asia/Kuwait",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "sa-riyadh",
+      "name": {"ja":"リヤド","en":"Riyadh"},
+      "country_region": {"code":"SA","ja":"サウジアラビア","en":"Saudi Arabia"},
+      "latitude": 24.714,
+      "longitude": 46.675,
+      "timezone": "Asia/Riyadh",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "sa-jeddah",
+      "name": {"ja":"ジッダ","en":"Jeddah"},
+      "country_region": {"code":"SA","ja":"サウジアラビア","en":"Saudi Arabia"},
+      "latitude": 21.5433,
+      "longitude": 39.1728,
+      "timezone": "Asia/Riyadh",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ge-tbilisi",
+      "name": {"ja":"トビリシ","en":"Tbilisi"},
+      "country_region": {"code":"GE","ja":"ジョージア","en":"Georgia"},
+      "latitude": 41.7151,
+      "longitude": 44.8271,
+      "timezone": "Asia/Tbilisi",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "am-yerevan",
+      "name": {"ja":"エレバン","en":"Yerevan"},
+      "country_region": {"code":"AM","ja":"アルメニア","en":"Armenia"},
+      "latitude": 40.1792,
+      "longitude": 44.4991,
+      "timezone": "Asia/Yerevan",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "iq-baghdad",
+      "name": {"ja":"バグダッド","en":"Baghdad"},
+      "country_region": {"code":"IQ","ja":"イラク","en":"Iraq"},
+      "latitude": 33.3152,
+      "longitude": 44.3661,
+      "timezone": "Asia/Baghdad",
+      "category": "Capital / Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ye-socotra-island",
+      "name": {"ja":"ソコトラ島","en":"Socotra Island"},
+      "country_region": {"code":"YE","ja":"イエメン","en":"Yemen"},
+      "latitude": 12.4634,
+      "longitude": 53.8237,
+      "timezone": "Asia/Aden",
+      "category": "Tourist Island",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "il-tel-aviv",
+      "name": {"ja":"テルアビブ","en":"Tel Aviv"},
+      "country_region": {"code":"IL","ja":"イスラエル","en":"Israel"},
+      "latitude": 32.0853,
+      "longitude": 34.7818,
+      "timezone": "Asia/Jerusalem",
+      "category": "Population Center",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "il-jerusalem",
+      "name": {"ja":"エルサレム","en":"Jerusalem"},
+      "country_region": {"code":"IL","ja":"イスラエル","en":"Israel"},
+      "latitude": 31.7683,
+      "longitude": 35.2137,
+      "timezone": "Asia/Jerusalem",
+      "category": "Capital / Tourist Hub",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "jo-amman",
+      "name": {"ja":"アンマン","en":"Amman"},
+      "country_region": {"code":"JO","ja":"ヨルダン","en":"Jordan"},
+      "latitude": 31.9454,
+      "longitude": 35.9284,
+      "timezone": "Asia/Amman",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "lb-beirut",
+      "name": {"ja":"ベイルート","en":"Beirut"},
+      "country_region": {"code":"LB","ja":"レバノン","en":"Lebanon"},
+      "latitude": 33.8938,
+      "longitude": 35.5018,
+      "timezone": "Asia/Beirut",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "tr-istanbul",
+      "name": {"ja":"イスタンブール","en":"Istanbul"},
+      "country_region": {"code":"TR","ja":"トルコ","en":"Türkiye"},
+      "latitude": 41.008,
+      "longitude": 28.978,
+      "timezone": "Europe/Istanbul",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "tr-ankara",
+      "name": {"ja":"アンカラ","en":"Ankara"},
+      "country_region": {"code":"TR","ja":"トルコ","en":"Türkiye"},
+      "latitude": 39.9334,
+      "longitude": 32.8597,
+      "timezone": "Europe/Istanbul",
+      "category": "Capital",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "tr-antalya",
+      "name": {"ja":"アンタルヤ","en":"Antalya"},
+      "country_region": {"code":"TR","ja":"トルコ","en":"Türkiye"},
+      "latitude": 36.8969,
+      "longitude": 30.7133,
+      "timezone": "Europe/Istanbul",
+      "category": "Tourist Hub",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "ru-yakutsk",
+      "name": {"ja":"ヤクーツク","en":"Yakutsk"},
+      "country_region": {"code":"RU","ja":"ロシア","en":"Russia"},
+      "latitude": 62.035,
+      "longitude": 129.675,
+      "timezone": "Asia/Yakutsk",
+      "geographic_region": "asia"
+    },
+    {
+      "id": "pt-lisbon",
+      "name": {"ja":"リスボン","en":"Lisbon"},
+      "country_region": {"code":"PT","ja":"ポルトガル","en":"Portugal"},
+      "latitude": 38.722,
+      "longitude": -9.139,
+      "timezone": "Europe/Lisbon",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "ie-dublin",
+      "name": {"ja":"ダブリン","en":"Dublin"},
+      "country_region": {"code":"IE","ja":"アイルランド","en":"Ireland"},
+      "latitude": 53.35,
+      "longitude": -6.26,
+      "timezone": "Europe/Dublin",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "es-barcelona",
+      "name": {"ja":"バルセロナ","en":"Barcelona"},
+      "country_region": {"code":"ES","ja":"スペイン","en":"Spain"},
+      "latitude": 41.385,
+      "longitude": 2.173,
+      "timezone": "Europe/Madrid",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "es-madrid",
+      "name": {"ja":"マドリード","en":"Madrid"},
+      "country_region": {"code":"ES","ja":"スペイン","en":"Spain"},
+      "latitude": 40.417,
+      "longitude": -3.704,
+      "timezone": "Europe/Madrid",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "es-majorca-palma",
+      "name": {"ja":"マヨルカ島（パルマ）","en":"Majorca (Palma)"},
+      "country_region": {"code":"ES","ja":"スペイン","en":"Spain"},
+      "latitude": 39.5696,
+      "longitude": 2.6502,
+      "timezone": "Europe/Madrid",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"パルマ","en":"Palma"},
+      "geographic_region": "europe"
+    },
+    {
+      "id": "es-ibiza",
+      "name": {"ja":"イビサ島","en":"Ibiza"},
+      "country_region": {"code":"ES","ja":"スペイン","en":"Spain"},
+      "latitude": 38.9067,
+      "longitude": 1.4206,
+      "timezone": "Europe/Madrid",
+      "category": "Tourist Island",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "gb-edinburgh",
+      "name": {"ja":"エディンバラ","en":"Edinburgh"},
+      "country_region": {"code":"GB","ja":"イギリス","en":"United Kingdom"},
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "timezone": "Europe/London",
+      "category": "Regional Capital / Tourist Hub",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "gb-london",
+      "name": {"ja":"ロンドン","en":"London"},
+      "country_region": {"code":"GB","ja":"イギリス","en":"United Kingdom"},
+      "latitude": 51.507,
+      "longitude": -0.128,
+      "timezone": "Europe/London",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "fr-paris",
+      "name": {"ja":"パリ","en":"Paris"},
+      "country_region": {"code":"FR","ja":"フランス","en":"France"},
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "timezone": "Europe/Paris",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "fr-strasbourg",
+      "name": {"ja":"ストラスブール","en":"Strasbourg"},
+      "country_region": {"code":"FR","ja":"フランス","en":"France"},
+      "latitude": 48.573,
+      "longitude": 7.752,
+      "timezone": "Europe/Paris",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "fr-nice",
+      "name": {"ja":"ニース","en":"Nice"},
+      "country_region": {"code":"FR","ja":"フランス","en":"France"},
+      "latitude": 43.7102,
+      "longitude": 7.262,
+      "timezone": "Europe/Paris",
+      "category": "Tourist Hub / Coastal",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "fr-corsica-ajaccio",
+      "name": {"ja":"コルシカ島（アジャクシオ）","en":"Corsica (Ajaccio)"},
+      "country_region": {"code":"FR","ja":"フランス","en":"France"},
+      "latitude": 41.9267,
+      "longitude": 8.7369,
+      "timezone": "Europe/Paris",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"アジャクシオ","en":"Ajaccio"},
+      "geographic_region": "europe"
+    },
+    {
+      "id": "be-brussels",
+      "name": {"ja":"ブリュッセル","en":"Brussels"},
+      "country_region": {"code":"BE","ja":"ベルギー","en":"Belgium"},
+      "latitude": 50.85,
+      "longitude": 4.352,
+      "timezone": "Europe/Brussels",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "nl-amsterdam",
+      "name": {"ja":"アムステルダム","en":"Amsterdam"},
+      "country_region": {"code":"NL","ja":"オランダ","en":"Netherlands"},
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "timezone": "Europe/Amsterdam",
+      "category": "Capital / Population Center",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "ch-zurich",
+      "name": {"ja":"チューリッヒ","en":"Zurich"},
+      "country_region": {"code":"CH","ja":"スイス","en":"Switzerland"},
+      "latitude": 47.377,
+      "longitude": 8.542,
+      "timezone": "Europe/Zurich",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "ch-st-moritz",
+      "name": {"ja":"サン・モリッツ","en":"St. Moritz"},
+      "country_region": {"code":"CH","ja":"スイス","en":"Switzerland"},
+      "latitude": 46.491,
+      "longitude": 9.835,
+      "timezone": "Europe/Zurich",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "ch-geneva",
+      "name": {"ja":"ジュネーブ","en":"Geneva"},
+      "country_region": {"code":"CH","ja":"スイス","en":"Switzerland"},
+      "latitude": 46.2044,
+      "longitude": 6.1432,
+      "timezone": "Europe/Zurich",
+      "category": "International Hub",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "ch-zermatt",
+      "name": {"ja":"ツェルマット","en":"Zermatt"},
+      "country_region": {"code":"CH","ja":"スイス","en":"Switzerland"},
+      "latitude": 46.02,
+      "longitude": 7.749,
+      "timezone": "Europe/Zurich",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "mc-monaco",
+      "name": {"ja":"モナコ","en":"Monaco"},
+      "country_region": {"code":"MC","ja":"モナコ","en":"Monaco"},
+      "latitude": 43.738,
+      "longitude": 7.425,
+      "timezone": "Europe/Monaco",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "no-tromso",
+      "name": {"ja":"トロムセ","en":"Tromsø"},
+      "country_region": {"code":"NO","ja":"ノルウェー","en":"Norway"},
+      "latitude": 69.65,
+      "longitude": 18.955,
+      "timezone": "Europe/Oslo",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "no-lofoten-islands",
+      "name": {"ja":"ロフォーテン諸島","en":"Lofoten Islands"},
+      "country_region": {"code":"NO","ja":"ノルウェー","en":"Norway"},
+      "latitude": 68.2343,
+      "longitude": 14.5682,
+      "timezone": "Europe/Oslo",
+      "category": "Tourist Island",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "no-oslo",
+      "name": {"ja":"オスロ","en":"Oslo"},
+      "country_region": {"code":"NO","ja":"ノルウェー","en":"Norway"},
+      "latitude": 59.914,
+      "longitude": 10.752,
+      "timezone": "Europe/Oslo",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "it-venice",
+      "name": {"ja":"ベネチア","en":"Venice"},
+      "country_region": {"code":"IT","ja":"イタリア","en":"Italy"},
+      "latitude": 45.44,
+      "longitude": 12.315,
+      "timezone": "Europe/Rome",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "it-rome",
+      "name": {"ja":"ローマ","en":"Rome"},
+      "country_region": {"code":"IT","ja":"イタリア","en":"Italy"},
+      "latitude": 41.903,
+      "longitude": 12.496,
+      "timezone": "Europe/Rome",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "it-sardinia-cagliari",
+      "name": {"ja":"サルデーニャ島（カリャリ）","en":"Sardinia (Cagliari)"},
+      "country_region": {"code":"IT","ja":"イタリア","en":"Italy"},
+      "latitude": 39.2238,
+      "longitude": 9.1217,
+      "timezone": "Europe/Rome",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"カリャリ","en":"Cagliari"},
+      "geographic_region": "europe"
+    },
+    {
+      "id": "it-sicily-palermo",
+      "name": {"ja":"シチリア島（パレルモ）","en":"Sicily (Palermo)"},
+      "country_region": {"code":"IT","ja":"イタリア","en":"Italy"},
+      "latitude": 38.1157,
+      "longitude": 13.3615,
+      "timezone": "Europe/Rome",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"パレルモ","en":"Palermo"},
+      "geographic_region": "europe"
+    },
+    {
+      "id": "mt-valletta-malta",
+      "name": {"ja":"バレッタ","en":"Valletta (Malta)"},
+      "country_region": {"code":"MT","ja":"マルタ","en":"Malta"},
+      "latitude": 35.8989,
+      "longitude": 14.5146,
+      "timezone": "Europe/Malta",
+      "category": "Capital / Tourist Island",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "sj-svalbard-longyearbyen",
+      "name": {"ja":"スヴァールバル諸島（ロングイェールビーン）","en":"Svalbard (Longyearbyen)"},
+      "country_region": {"code":"SJ","ja":"スヴァールバル諸島およびヤンマイエン島","en":"Svalbard and Jan Mayen"},
+      "latitude": 78.2232,
+      "longitude": 15.6267,
+      "timezone": "Arctic/Longyearbyen",
+      "category": "Tourist / Polar Island",
+      "representative_point": {"ja":"ロングイェールビーン","en":"Longyearbyen"},
+      "geographic_region": "europe"
+    },
+    {
+      "id": "dk-copenhagen",
+      "name": {"ja":"コペンハーゲン","en":"Copenhagen"},
+      "country_region": {"code":"DK","ja":"デンマーク","en":"Denmark"},
+      "latitude": 55.676,
+      "longitude": 12.568,
+      "timezone": "Europe/Copenhagen",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "cz-prague",
+      "name": {"ja":"プラハ","en":"Prague"},
+      "country_region": {"code":"CZ","ja":"チェコ","en":"Czechia"},
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "timezone": "Europe/Prague",
+      "category": "Capital / Tourist Hub",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "de-berlin",
+      "name": {"ja":"ベルリン","en":"Berlin"},
+      "country_region": {"code":"DE","ja":"ドイツ","en":"Germany"},
+      "latitude": 52.52,
+      "longitude": 13.405,
+      "timezone": "Europe/Berlin",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "de-munich",
+      "name": {"ja":"ミュンヘン","en":"Munich"},
+      "country_region": {"code":"DE","ja":"ドイツ","en":"Germany"},
+      "latitude": 48.135,
+      "longitude": 11.582,
+      "timezone": "Europe/Berlin",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "hr-zagreb",
+      "name": {"ja":"ザグレブ","en":"Zagreb"},
+      "country_region": {"code":"HR","ja":"クロアチア","en":"Croatia"},
+      "latitude": 45.815,
+      "longitude": 15.9819,
+      "timezone": "Europe/Zagreb",
+      "category": "Capital",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "hr-hvar-island",
+      "name": {"ja":"フヴァル島","en":"Hvar Island"},
+      "country_region": {"code":"HR","ja":"クロアチア","en":"Croatia"},
+      "latitude": 43.1729,
+      "longitude": 16.4426,
+      "timezone": "Europe/Zagreb",
+      "category": "Tourist Island",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "hr-dubrovnik",
+      "name": {"ja":"ドゥブロヴニク","en":"Dubrovnik"},
+      "country_region": {"code":"HR","ja":"クロアチア","en":"Croatia"},
+      "latitude": 42.6507,
+      "longitude": 18.0944,
+      "timezone": "Europe/Zagreb",
+      "category": "Tourist Hub",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "at-vienna",
+      "name": {"ja":"ウィーン","en":"Vienna"},
+      "country_region": {"code":"AT","ja":"オーストリア","en":"Austria"},
+      "latitude": 48.208,
+      "longitude": 16.374,
+      "timezone": "Europe/Vienna",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "se-stockholm",
+      "name": {"ja":"ストックホルム","en":"Stockholm"},
+      "country_region": {"code":"SE","ja":"スウェーデン","en":"Sweden"},
+      "latitude": 59.329,
+      "longitude": 18.069,
+      "timezone": "Europe/Stockholm",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "se-gotland-visby",
+      "name": {"ja":"ゴットランド島（ヴィスビュー）","en":"Gotland (Visby)"},
+      "country_region": {"code":"SE","ja":"スウェーデン","en":"Sweden"},
+      "latitude": 57.6348,
+      "longitude": 18.2948,
+      "timezone": "Europe/Stockholm",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"ヴィスビュー","en":"Visby"},
+      "geographic_region": "europe"
+    },
+    {
+      "id": "hu-budapest",
+      "name": {"ja":"ブダペスト","en":"Budapest"},
+      "country_region": {"code":"HU","ja":"ハンガリー","en":"Hungary"},
+      "latitude": 47.4979,
+      "longitude": 19.0402,
+      "timezone": "Europe/Budapest",
+      "category": "Capital / Population Center",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "rs-belgrade",
+      "name": {"ja":"ベオグラード","en":"Belgrade"},
+      "country_region": {"code":"RS","ja":"セルビア","en":"Serbia"},
+      "latitude": 44.7866,
+      "longitude": 20.4489,
+      "timezone": "Europe/Belgrade",
+      "category": "Capital",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "pl-warsaw",
+      "name": {"ja":"ワルシャワ","en":"Warsaw"},
+      "country_region": {"code":"PL","ja":"ポーランド","en":"Poland"},
+      "latitude": 52.23,
+      "longitude": 21.012,
+      "timezone": "Europe/Warsaw",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "gr-athens",
+      "name": {"ja":"アテネ","en":"Athens"},
+      "country_region": {"code":"GR","ja":"ギリシャ","en":"Greece"},
+      "latitude": 37.984,
+      "longitude": 23.728,
+      "timezone": "Europe/Athens",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "gr-mykonos",
+      "name": {"ja":"ミコノス島","en":"Mykonos"},
+      "country_region": {"code":"GR","ja":"ギリシャ","en":"Greece"},
+      "latitude": 37.4467,
+      "longitude": 25.3289,
+      "timezone": "Europe/Athens",
+      "category": "Tourist Island",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "gr-rhodes",
+      "name": {"ja":"ロドス島","en":"Rhodes"},
+      "country_region": {"code":"GR","ja":"ギリシャ","en":"Greece"},
+      "latitude": 36.4349,
+      "longitude": 28.2175,
+      "timezone": "Europe/Athens",
+      "category": "Tourist Island",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "gr-santorini",
+      "name": {"ja":"サントリーニ島","en":"Santorini"},
+      "country_region": {"code":"GR","ja":"ギリシャ","en":"Greece"},
+      "latitude": 36.3932,
+      "longitude": 25.4615,
+      "timezone": "Europe/Athens",
+      "category": "Tourist Island",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "gr-crete-heraklion",
+      "name": {"ja":"クレタ島（イラクリオン）","en":"Crete (Heraklion)"},
+      "country_region": {"code":"GR","ja":"ギリシャ","en":"Greece"},
+      "latitude": 35.3387,
+      "longitude": 25.1442,
+      "timezone": "Europe/Athens",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"イラクリオン","en":"Heraklion"},
+      "geographic_region": "europe"
+    },
+    {
+      "id": "bg-sofia",
+      "name": {"ja":"ソフィア","en":"Sofia"},
+      "country_region": {"code":"BG","ja":"ブルガリア","en":"Bulgaria"},
+      "latitude": 42.6977,
+      "longitude": 23.3219,
+      "timezone": "Europe/Sofia",
+      "category": "Capital",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "fi-oulu",
+      "name": {"ja":"オウル","en":"Oulu"},
+      "country_region": {"code":"FI","ja":"フィンランド","en":"Finland"},
+      "latitude": 65.012,
+      "longitude": 25.466,
+      "timezone": "Europe/Helsinki",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "fi-helsinki",
+      "name": {"ja":"ヘルシンキ","en":"Helsinki"},
+      "country_region": {"code":"FI","ja":"フィンランド","en":"Finland"},
+      "latitude": 60.17,
+      "longitude": 24.938,
+      "timezone": "Europe/Helsinki",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "ro-bucharest",
+      "name": {"ja":"ブカレスト","en":"Bucharest"},
+      "country_region": {"code":"RO","ja":"ルーマニア","en":"Romania"},
+      "latitude": 44.4323,
+      "longitude": 26.1063,
+      "timezone": "Europe/Bucharest",
+      "category": "Capital / Population Center",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "ua-kyiv",
+      "name": {"ja":"キーウ","en":"Kyiv"},
+      "country_region": {"code":"UA","ja":"ウクライナ","en":"Ukraine"},
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "timezone": "Europe/Kyiv",
+      "category": "Capital / Population Center",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "cy-nicosia",
+      "name": {"ja":"ニコシア","en":"Nicosia"},
+      "country_region": {"code":"CY","ja":"キプロス","en":"Cyprus"},
+      "latitude": 35.1856,
+      "longitude": 33.3823,
+      "timezone": "Asia/Nicosia",
+      "category": "Capital",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "cy-cyprus-paphos",
+      "name": {"ja":"パフォス","en":"Cyprus (Paphos)"},
+      "country_region": {"code":"CY","ja":"キプロス","en":"Cyprus"},
+      "latitude": 34.7754,
+      "longitude": 32.4245,
+      "timezone": "Asia/Nicosia",
+      "category": "Tourist Hub",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "ru-saint-petersburg",
+      "name": {"ja":"サンクトペテルブルク","en":"Saint Petersburg"},
+      "country_region": {"code":"RU","ja":"ロシア","en":"Russia"},
+      "latitude": 59.9343,
+      "longitude": 30.3351,
+      "timezone": "Europe/Moscow",
+      "category": "Tourist Hub / Population Center",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "ru-moscow",
+      "name": {"ja":"モスクワ","en":"Moscow"},
+      "country_region": {"code":"RU","ja":"ロシア","en":"Russia"},
+      "latitude": 55.756,
+      "longitude": 37.617,
+      "timezone": "Europe/Moscow",
+      "geographic_region": "europe"
+    },
+    {
+      "id": "is-reykjavik",
+      "name": {"ja":"レイキャビク","en":"Reykjavik"},
+      "country_region": {"code":"IS","ja":"アイスランド","en":"Iceland"},
+      "latitude": 64.147,
+      "longitude": -21.943,
+      "timezone": "Atlantic/Reykjavik",
+      "geographic_region": "atlantic"
+    },
+    {
+      "id": "pt-azores-ponta-delgada",
+      "name": {"ja":"アゾレス諸島（ポンタ・デルガダ）","en":"Azores (Ponta Delgada)"},
+      "country_region": {"code":"PT","ja":"ポルトガル","en":"Portugal"},
+      "latitude": 37.7412,
+      "longitude": -25.6756,
+      "timezone": "Atlantic/Azores",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"ポンタ・デルガダ","en":"Ponta Delgada"},
+      "geographic_region": "atlantic"
+    },
+    {
+      "id": "pt-madeira-funchal",
+      "name": {"ja":"マデイラ島（フンシャル）","en":"Madeira (Funchal)"},
+      "country_region": {"code":"PT","ja":"ポルトガル","en":"Portugal"},
+      "latitude": 32.6669,
+      "longitude": -16.9241,
+      "timezone": "Atlantic/Madeira",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"フンシャル","en":"Funchal"},
+      "geographic_region": "atlantic"
+    },
+    {
+      "id": "es-tenerife-canary-islands",
+      "name": {"ja":"テネリフェ島（カナリア諸島）","en":"Tenerife (Canary Islands)"},
+      "country_region": {"code":"ES","ja":"スペイン","en":"Spain"},
+      "latitude": 28.2915,
+      "longitude": -16.6291,
+      "timezone": "Atlantic/Canary",
+      "category": "Tourist Island",
+      "geographic_region": "atlantic"
+    },
+    {
+      "id": "cv-cape-verde-sal-island",
+      "name": {"ja":"カーボベルデ（サル島）","en":"Cape Verde (Sal Island)"},
+      "country_region": {"code":"CV","ja":"カーボベルデ","en":"Cabo Verde"},
+      "latitude": 16.7535,
+      "longitude": -22.9463,
+      "timezone": "Atlantic/Cape_Verde",
+      "category": "Tourist Island",
+      "geographic_region": "atlantic"
+    },
+    {
+      "id": "br-fernando-de-noronha",
+      "name": {"ja":"フェルナンド・デ・ノローニャ","en":"Fernando de Noronha"},
+      "country_region": {"code":"BR","ja":"ブラジル","en":"Brazil"},
+      "latitude": -3.8576,
+      "longitude": -32.4297,
+      "timezone": "America/Noronha",
+      "category": "Tourist Island",
+      "geographic_region": "atlantic"
+    },
+    {
+      "id": "us-anchorage",
+      "name": {"ja":"アンカレッジ","en":"Anchorage"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 61.218,
+      "longitude": -149.9,
+      "timezone": "America/Anchorage",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "ca-yellowknife",
+      "name": {"ja":"イエローナイフ","en":"Yellowknife"},
+      "country_region": {"code":"CA","ja":"カナダ","en":"Canada"},
+      "latitude": 62.454,
+      "longitude": -114.377,
+      "timezone": "America/Yellowknife",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "ca-vancouver",
+      "name": {"ja":"バンクーバー","en":"Vancouver"},
+      "country_region": {"code":"CA","ja":"カナダ","en":"Canada"},
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "timezone": "America/Vancouver",
+      "category": "Population Center",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "ca-montreal",
+      "name": {"ja":"モントリオール","en":"Montreal"},
+      "country_region": {"code":"CA","ja":"カナダ","en":"Canada"},
+      "latitude": 45.502,
+      "longitude": -73.567,
+      "timezone": "America/Toronto",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "ca-ottawa",
+      "name": {"ja":"オタワ","en":"Ottawa"},
+      "country_region": {"code":"CA","ja":"カナダ","en":"Canada"},
+      "latitude": 45.4215,
+      "longitude": -75.6972,
+      "timezone": "America/Toronto",
+      "category": "Capital",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "ca-toronto",
+      "name": {"ja":"トロント","en":"Toronto"},
+      "country_region": {"code":"CA","ja":"カナダ","en":"Canada"},
+      "latitude": 43.653,
+      "longitude": -79.383,
+      "timezone": "America/Toronto",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-seattle",
+      "name": {"ja":"シアトル","en":"Seattle"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 47.606,
+      "longitude": -122.332,
+      "timezone": "America/Los_Angeles",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-chicago",
+      "name": {"ja":"シカゴ","en":"Chicago"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "timezone": "America/Chicago",
+      "category": "Population Center",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-new-york",
+      "name": {"ja":"ニューヨーク","en":"New York"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 40.713,
+      "longitude": -74.006,
+      "timezone": "America/New_York",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-washington-d-c",
+      "name": {"ja":"ワシントンD.C.","en":"Washington D.C."},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "timezone": "America/New_York",
+      "category": "Capital",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-san-francisco",
+      "name": {"ja":"サンフランシスコ","en":"San Francisco"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 37.775,
+      "longitude": -122.419,
+      "timezone": "America/Los_Angeles",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-las-vegas",
+      "name": {"ja":"ラスベガス","en":"Las Vegas"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 36.17,
+      "longitude": -115.14,
+      "timezone": "America/Los_Angeles",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-los-angeles",
+      "name": {"ja":"ロサンゼルス","en":"Los Angeles"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 34.052,
+      "longitude": -118.244,
+      "timezone": "America/Los_Angeles",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-phoenix",
+      "name": {"ja":"フェニックス","en":"Phoenix"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 33.4484,
+      "longitude": -112.074,
+      "timezone": "America/Phoenix",
+      "category": "Population Center",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-houston",
+      "name": {"ja":"ヒューストン","en":"Houston"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "timezone": "America/Chicago",
+      "category": "Population Center",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "us-miami",
+      "name": {"ja":"マイアミ","en":"Miami"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "timezone": "America/New_York",
+      "category": "Tourist Hub / Population Center",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "mx-cabo-san-lucas",
+      "name": {"ja":"カボ・サン・ルーカス","en":"Cabo San Lucas"},
+      "country_region": {"code":"MX","ja":"メキシコ","en":"Mexico"},
+      "latitude": 22.8905,
+      "longitude": -109.9167,
+      "timezone": "America/Mazatlan",
+      "category": "Tourist Hub",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "mx-cancun",
+      "name": {"ja":"カンクン","en":"Cancun"},
+      "country_region": {"code":"MX","ja":"メキシコ","en":"Mexico"},
+      "latitude": 21.162,
+      "longitude": -86.852,
+      "timezone": "America/Cancun",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "mx-guadalajara",
+      "name": {"ja":"グアダラハラ","en":"Guadalajara"},
+      "country_region": {"code":"MX","ja":"メキシコ","en":"Mexico"},
+      "latitude": 20.6597,
+      "longitude": -103.3496,
+      "timezone": "America/Mexico_City",
+      "category": "Population Center",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "mx-cozumel-island",
+      "name": {"ja":"コスメル島","en":"Cozumel Island"},
+      "country_region": {"code":"MX","ja":"メキシコ","en":"Mexico"},
+      "latitude": 20.423,
+      "longitude": -86.9223,
+      "timezone": "America/Cancun",
+      "category": "Tourist Island",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "mx-mexico-city",
+      "name": {"ja":"メキシコシティ","en":"Mexico City"},
+      "country_region": {"code":"MX","ja":"メキシコ","en":"Mexico"},
+      "latitude": 19.433,
+      "longitude": -99.133,
+      "timezone": "America/Mexico_City",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "cr-san-jose-costa-rica",
+      "name": {"ja":"サンホセ","en":"San Jose (Costa Rica)"},
+      "country_region": {"code":"CR","ja":"コスタリカ","en":"Costa Rica"},
+      "latitude": 9.9281,
+      "longitude": -84.0907,
+      "timezone": "America/Costa_Rica",
+      "category": "Capital",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "pa-panama-city",
+      "name": {"ja":"パナマシティ","en":"Panama City"},
+      "country_region": {"code":"PA","ja":"パナマ","en":"Panama"},
+      "latitude": 8.9824,
+      "longitude": -79.5199,
+      "timezone": "America/Panama",
+      "category": "Capital / Population Center",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "bs-nassau-bahamas",
+      "name": {"ja":"ナッソー","en":"Nassau (Bahamas)"},
+      "country_region": {"code":"BS","ja":"バハマ","en":"Bahamas"},
+      "latitude": 25.0343,
+      "longitude": -77.3963,
+      "timezone": "America/Nassau",
+      "category": "Capital / Tourist Island",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "cu-varadero",
+      "name": {"ja":"バラデロ","en":"Varadero"},
+      "country_region": {"code":"CU","ja":"キューバ","en":"Cuba"},
+      "latitude": 23.1537,
+      "longitude": -81.2514,
+      "timezone": "America/Havana",
+      "category": "Tourist Hub",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "cu-havana",
+      "name": {"ja":"ハバナ","en":"Havana"},
+      "country_region": {"code":"CU","ja":"キューバ","en":"Cuba"},
+      "latitude": 23.1136,
+      "longitude": -82.3666,
+      "timezone": "America/Havana",
+      "category": "Capital / Tourist Hub",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "jm-montego-bay-jamaica",
+      "name": {"ja":"モンテゴ・ベイ","en":"Montego Bay (Jamaica)"},
+      "country_region": {"code":"JM","ja":"ジャマイカ","en":"Jamaica"},
+      "latitude": 18.4762,
+      "longitude": -77.8939,
+      "timezone": "America/Jamaica",
+      "category": "Tourist Hub",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "jm-kingston",
+      "name": {"ja":"キングストン","en":"Kingston"},
+      "country_region": {"code":"JM","ja":"ジャマイカ","en":"Jamaica"},
+      "latitude": 17.9714,
+      "longitude": -76.7936,
+      "timezone": "America/Jamaica",
+      "category": "Capital",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "do-punta-cana-dominican-rep",
+      "name": {"ja":"プンタ・カナ","en":"Punta Cana (Dominican Rep.)"},
+      "country_region": {"code":"DO","ja":"ドミニカ共和国","en":"Dominican Republic"},
+      "latitude": 18.5601,
+      "longitude": -68.3725,
+      "timezone": "America/Santo_Domingo",
+      "category": "Tourist Hub",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "do-santo-domingo",
+      "name": {"ja":"サントドミンゴ","en":"Santo Domingo"},
+      "country_region": {"code":"DO","ja":"ドミニカ共和国","en":"Dominican Republic"},
+      "latitude": 18.4861,
+      "longitude": -69.9312,
+      "timezone": "America/Santo_Domingo",
+      "category": "Capital",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "pr-san-juan-puerto-rico",
+      "name": {"ja":"サンフアン","en":"San Juan (Puerto Rico)"},
+      "country_region": {"code":"PR","ja":"プエルトリコ","en":"Puerto Rico"},
+      "latitude": 18.4655,
+      "longitude": -66.1057,
+      "timezone": "America/Puerto_Rico",
+      "category": "Tourist Island / Capital",
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "sx-saint-martin-sint-maarten",
+      "name": {"ja":"セント・マーチン島／シント・マールテン","en":"Saint Martin / Sint Maarten"},
+      "country_region": {"code":"SX","ja":"シント・マールテン","en":"Sint Maarten"},
+      "latitude": 18.0425,
+      "longitude": -63.0548,
+      "timezone": "America/Lower_Princes",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"シント・マールテン側の代表点","en":"Representative point on the Sint Maarten side"},
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "aw-aruba-oranjestad",
+      "name": {"ja":"アルバ島（オラニエスタッド）","en":"Aruba (Oranjestad)"},
+      "country_region": {"code":"AW","ja":"アルバ","en":"Aruba"},
+      "latitude": 12.5092,
+      "longitude": -70.0086,
+      "timezone": "America/Aruba",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"オラニエスタッド","en":"Oranjestad"},
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "cw-curacao-willemstad",
+      "name": {"ja":"キュラソー島（ウィレムスタッド）","en":"Curacao (Willemstad)"},
+      "country_region": {"code":"CW","ja":"キュラソー","en":"Curaçao"},
+      "latitude": 12.1084,
+      "longitude": -68.9335,
+      "timezone": "America/Curacao",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"ウィレムスタッド","en":"Willemstad"},
+      "geographic_region": "north_america"
+    },
+    {
+      "id": "co-san-andres-island",
+      "name": {"ja":"サンアンドレス島","en":"San Andres Island"},
+      "country_region": {"code":"CO","ja":"コロンビア","en":"Colombia"},
+      "latitude": 12.5847,
+      "longitude": -81.7006,
+      "timezone": "America/Bogota",
+      "category": "Tourist Island",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "co-cartagena",
+      "name": {"ja":"カルタヘナ","en":"Cartagena"},
+      "country_region": {"code":"CO","ja":"コロンビア","en":"Colombia"},
+      "latitude": 10.391,
+      "longitude": -75.4794,
+      "timezone": "America/Bogota",
+      "category": "Tourist Hub / Coastal",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "co-medellin",
+      "name": {"ja":"メデジン","en":"Medellin"},
+      "country_region": {"code":"CO","ja":"コロンビア","en":"Colombia"},
+      "latitude": 6.2442,
+      "longitude": -75.5812,
+      "timezone": "America/Bogota",
+      "category": "Population Center",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "co-bogota",
+      "name": {"ja":"ボゴタ","en":"Bogota"},
+      "country_region": {"code":"CO","ja":"コロンビア","en":"Colombia"},
+      "latitude": 4.711,
+      "longitude": -74.0721,
+      "timezone": "America/Bogota",
+      "category": "Capital / Population Center",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "ec-quito",
+      "name": {"ja":"キト","en":"Quito"},
+      "country_region": {"code":"EC","ja":"エクアドル","en":"Ecuador"},
+      "latitude": -0.181,
+      "longitude": -78.468,
+      "timezone": "America/Guayaquil",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "ec-galapagos",
+      "name": {"ja":"ガラパゴス諸島","en":"Galapagos Islands"},
+      "country_region": {"code":"EC","ja":"エクアドル","en":"Ecuador"},
+      "latitude": -0.744,
+      "longitude": -90.313,
+      "timezone": "Pacific/Galapagos",
+      "representative_point": {"ja":"プエルト・アヨラ","en":"Puerto Ayora"},
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "pe-lima",
+      "name": {"ja":"リマ","en":"Lima"},
+      "country_region": {"code":"PE","ja":"ペルー","en":"Peru"},
+      "latitude": -12.0463,
+      "longitude": -77.0428,
+      "timezone": "America/Lima",
+      "category": "Capital / Population Center",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "pe-cusco",
+      "name": {"ja":"クスコ","en":"Cusco"},
+      "country_region": {"code":"PE","ja":"ペルー","en":"Peru"},
+      "latitude": -13.5319,
+      "longitude": -71.9675,
+      "timezone": "America/Lima",
+      "category": "Tourist Hub",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "br-rio-de-janeiro",
+      "name": {"ja":"リオデジャネイロ","en":"Rio de Janeiro"},
+      "country_region": {"code":"BR","ja":"ブラジル","en":"Brazil"},
+      "latitude": -22.907,
+      "longitude": -43.173,
+      "timezone": "America/Sao_Paulo",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "br-sao-paulo",
+      "name": {"ja":"サンパウロ","en":"Sao Paulo"},
+      "country_region": {"code":"BR","ja":"ブラジル","en":"Brazil"},
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "timezone": "America/Sao_Paulo",
+      "category": "Population Center",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "br-florianopolis-island",
+      "name": {"ja":"フロリアノポリス島","en":"Florianopolis Island"},
+      "country_region": {"code":"BR","ja":"ブラジル","en":"Brazil"},
+      "latitude": -27.5948,
+      "longitude": -48.5482,
+      "timezone": "America/Sao_Paulo",
+      "category": "Tourist Island",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "bo-la-paz",
+      "name": {"ja":"ラパス","en":"La Paz"},
+      "country_region": {"code":"BO","ja":"ボリビア","en":"Bolivia"},
+      "latitude": -16.5,
+      "longitude": -68.15,
+      "timezone": "America/La_Paz",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "cl-santiago",
+      "name": {"ja":"サンティアゴ","en":"Santiago"},
+      "country_region": {"code":"CL","ja":"チリ","en":"Chile"},
+      "latitude": -33.449,
+      "longitude": -70.669,
+      "timezone": "America/Santiago",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "ar-buenos-aires",
+      "name": {"ja":"ブエノスアイレス","en":"Buenos Aires"},
+      "country_region": {"code":"AR","ja":"アルゼンチン","en":"Argentina"},
+      "latitude": -34.6037,
+      "longitude": -58.3816,
+      "timezone": "America/Argentina/Buenos_Aires",
+      "category": "Capital / Population Center",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "ar-ushuaia",
+      "name": {"ja":"ウシュアイア","en":"Ushuaia"},
+      "country_region": {"code":"AR","ja":"アルゼンチン","en":"Argentina"},
+      "latitude": -54.802,
+      "longitude": -68.303,
+      "timezone": "America/Argentina/Ushuaia",
+      "geographic_region": "south_america"
+    },
+    {
+      "id": "tn-tunis",
+      "name": {"ja":"チュニス","en":"Tunis"},
+      "country_region": {"code":"TN","ja":"チュニジア","en":"Tunisia"},
+      "latitude": 36.8065,
+      "longitude": 10.1815,
+      "timezone": "Africa/Tunis",
+      "category": "Capital / Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "tn-djerba-island",
+      "name": {"ja":"ジェルバ島","en":"Djerba Island"},
+      "country_region": {"code":"TN","ja":"チュニジア","en":"Tunisia"},
+      "latitude": 33.8075,
+      "longitude": 10.8451,
+      "timezone": "Africa/Tunis",
+      "category": "Tourist Island",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "dz-algiers",
+      "name": {"ja":"アルジェ","en":"Algiers"},
+      "country_region": {"code":"DZ","ja":"アルジェリア","en":"Algeria"},
+      "latitude": 36.7538,
+      "longitude": 3.0588,
+      "timezone": "Africa/Algiers",
+      "category": "Capital / Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "ma-rabat",
+      "name": {"ja":"ラバト","en":"Rabat"},
+      "country_region": {"code":"MA","ja":"モロッコ","en":"Morocco"},
+      "latitude": 34.0209,
+      "longitude": -6.8416,
+      "timezone": "Africa/Casablanca",
+      "category": "Capital",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "ma-casablanca",
+      "name": {"ja":"カサブランカ","en":"Casablanca"},
+      "country_region": {"code":"MA","ja":"モロッコ","en":"Morocco"},
+      "latitude": 33.573,
+      "longitude": -7.59,
+      "timezone": "Africa/Casablanca",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "ma-marrakech",
+      "name": {"ja":"マラケシュ","en":"Marrakech"},
+      "country_region": {"code":"MA","ja":"モロッコ","en":"Morocco"},
+      "latitude": 31.6295,
+      "longitude": -7.9811,
+      "timezone": "Africa/Casablanca",
+      "category": "Tourist Hub",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "eg-alexandria",
+      "name": {"ja":"アレクサンドリア","en":"Alexandria"},
+      "country_region": {"code":"EG","ja":"エジプト","en":"Egypt"},
+      "latitude": 31.2001,
+      "longitude": 29.9187,
+      "timezone": "Africa/Cairo",
+      "category": "Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "eg-cairo",
+      "name": {"ja":"カイロ","en":"Cairo"},
+      "country_region": {"code":"EG","ja":"エジプト","en":"Egypt"},
+      "latitude": 30.044,
+      "longitude": 31.236,
+      "timezone": "Africa/Cairo",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "eg-sharm-el-sheikh",
+      "name": {"ja":"シャルム・エル・シェイク","en":"Sharm El Sheikh"},
+      "country_region": {"code":"EG","ja":"エジプト","en":"Egypt"},
+      "latitude": 27.9158,
+      "longitude": 34.3299,
+      "timezone": "Africa/Cairo",
+      "category": "Tourist Hub / Coastal",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "sn-dakar",
+      "name": {"ja":"ダカール","en":"Dakar"},
+      "country_region": {"code":"SN","ja":"セネガル","en":"Senegal"},
+      "latitude": 14.7167,
+      "longitude": -17.4677,
+      "timezone": "Africa/Dakar",
+      "category": "Capital / Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "et-addis-ababa",
+      "name": {"ja":"アディスアベバ","en":"Addis Ababa"},
+      "country_region": {"code":"ET","ja":"エチオピア","en":"Ethiopia"},
+      "latitude": 9.03,
+      "longitude": 38.74,
+      "timezone": "Africa/Addis_Ababa",
+      "category": "Capital / Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "ng-abuja",
+      "name": {"ja":"アブジャ","en":"Abuja"},
+      "country_region": {"code":"NG","ja":"ナイジェリア","en":"Nigeria"},
+      "latitude": 9.0765,
+      "longitude": 7.3986,
+      "timezone": "Africa/Lagos",
+      "category": "Capital",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "ng-lagos",
+      "name": {"ja":"ラゴス","en":"Lagos"},
+      "country_region": {"code":"NG","ja":"ナイジェリア","en":"Nigeria"},
+      "latitude": 6.5244,
+      "longitude": 3.3792,
+      "timezone": "Africa/Lagos",
+      "category": "Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "gh-accra",
+      "name": {"ja":"アクラ","en":"Accra"},
+      "country_region": {"code":"GH","ja":"ガーナ","en":"Ghana"},
+      "latitude": 5.6037,
+      "longitude": -0.187,
+      "timezone": "Africa/Accra",
+      "category": "Capital / Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "ke-nairobi",
+      "name": {"ja":"ナイロビ","en":"Nairobi"},
+      "country_region": {"code":"KE","ja":"ケニア","en":"Kenya"},
+      "latitude": -1.2921,
+      "longitude": 36.8219,
+      "timezone": "Africa/Nairobi",
+      "category": "Capital / Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "ke-mombasa",
+      "name": {"ja":"モンバサ","en":"Mombasa"},
+      "country_region": {"code":"KE","ja":"ケニア","en":"Kenya"},
+      "latitude": -4.0435,
+      "longitude": 39.6682,
+      "timezone": "Africa/Nairobi",
+      "category": "Tourist Hub / Coastal",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "sc-seychelles-mahe",
+      "name": {"ja":"セーシェル（マヘ島）","en":"Seychelles (Mahé)"},
+      "country_region": {"code":"SC","ja":"セーシェル","en":"Seychelles"},
+      "latitude": -4.6796,
+      "longitude": 55.492,
+      "timezone": "Indian/Mahe",
+      "category": "Tourist Island",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "tz-dodoma",
+      "name": {"ja":"ドドマ","en":"Dodoma"},
+      "country_region": {"code":"TZ","ja":"タンザニア","en":"Tanzania"},
+      "latitude": -6.163,
+      "longitude": 35.7516,
+      "timezone": "Africa/Dar_es_Salaam",
+      "category": "Capital",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "tz-zanzibar-stone-town",
+      "name": {"ja":"ザンジバル島（ストーンタウン）","en":"Zanzibar (Stone Town)"},
+      "country_region": {"code":"TZ","ja":"タンザニア","en":"Tanzania"},
+      "latitude": -6.1659,
+      "longitude": 39.199,
+      "timezone": "Africa/Dar_es_Salaam",
+      "category": "Tourist Island",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "tz-dar-es-salaam",
+      "name": {"ja":"ダルエスサラーム","en":"Dar es Salaam"},
+      "country_region": {"code":"TZ","ja":"タンザニア","en":"Tanzania"},
+      "latitude": -6.7924,
+      "longitude": 39.2083,
+      "timezone": "Africa/Dar_es_Salaam",
+      "category": "Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "mu-mauritius-port-louis",
+      "name": {"ja":"モーリシャス（ポートルイス）","en":"Mauritius (Port Louis)"},
+      "country_region": {"code":"MU","ja":"モーリシャス","en":"Mauritius"},
+      "latitude": -20.1609,
+      "longitude": 57.5012,
+      "timezone": "Indian/Mauritius",
+      "category": "Capital / Tourist Island",
+      "representative_point": {"ja":"ポートルイス","en":"Port Louis"},
+      "geographic_region": "africa"
+    },
+    {
+      "id": "re-reunion-island-saint-denis",
+      "name": {"ja":"レユニオン島（サン・ドニ）","en":"Reunion Island (Saint-Denis)"},
+      "country_region": {"code":"RE","ja":"レユニオン","en":"Réunion"},
+      "latitude": -20.8821,
+      "longitude": 55.4504,
+      "timezone": "Indian/Reunion",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"サン・ドニ","en":"Saint-Denis"},
+      "geographic_region": "africa"
+    },
+    {
+      "id": "mg-nosy-be",
+      "name": {"ja":"ノシ・ベ島","en":"Nosy Be"},
+      "country_region": {"code":"MG","ja":"マダガスカル","en":"Madagascar"},
+      "latitude": -13.3243,
+      "longitude": 48.2612,
+      "timezone": "Indian/Antananarivo",
+      "category": "Tourist Island",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "mg-madagascar-antananarivo",
+      "name": {"ja":"アンタナナリボ","en":"Madagascar (Antananarivo)"},
+      "country_region": {"code":"MG","ja":"マダガスカル","en":"Madagascar"},
+      "latitude": -18.8792,
+      "longitude": 47.5079,
+      "timezone": "Indian/Antananarivo",
+      "category": "Capital / Population Center",
+      "representative_point": {"ja":"アンタナナリボ","en":"Antananarivo"},
+      "geographic_region": "africa"
+    },
+    {
+      "id": "zw-victoria-falls-zimbabwe",
+      "name": {"ja":"ビクトリアフォールズ","en":"Victoria Falls (Zimbabwe)"},
+      "country_region": {"code":"ZW","ja":"ジンバブエ","en":"Zimbabwe"},
+      "latitude": -17.9244,
+      "longitude": 25.8559,
+      "timezone": "Africa/Harare",
+      "category": "Tourist Hub",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "za-johannesburg",
+      "name": {"ja":"ヨハネスブルク","en":"Johannesburg"},
+      "country_region": {"code":"ZA","ja":"南アフリカ","en":"South Africa"},
+      "latitude": -26.2041,
+      "longitude": 28.0473,
+      "timezone": "Africa/Johannesburg",
+      "category": "Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "za-durban",
+      "name": {"ja":"ダーバン","en":"Durban"},
+      "country_region": {"code":"ZA","ja":"南アフリカ","en":"South Africa"},
+      "latitude": -29.8587,
+      "longitude": 31.0218,
+      "timezone": "Africa/Johannesburg",
+      "category": "Population Center",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "za-cape-town",
+      "name": {"ja":"ケープタウン","en":"Cape Town"},
+      "country_region": {"code":"ZA","ja":"南アフリカ","en":"South Africa"},
+      "latitude": -33.925,
+      "longitude": 18.424,
+      "timezone": "Africa/Johannesburg",
+      "geographic_region": "africa"
+    },
+    {
+      "id": "au-cairns",
+      "name": {"ja":"ケアンズ","en":"Cairns"},
+      "country_region": {"code":"AU","ja":"オーストラリア","en":"Australia"},
+      "latitude": -16.919,
+      "longitude": 145.778,
+      "timezone": "Australia/Brisbane",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "au-whitsunday-islands-hamilton-is",
+      "name": {"ja":"ウィットサンデー諸島（ハミルトン島）","en":"Whitsunday Islands (Hamilton Is.)"},
+      "country_region": {"code":"AU","ja":"オーストラリア","en":"Australia"},
+      "latitude": -20.3524,
+      "longitude": 148.9553,
+      "timezone": "Australia/Lindeman",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"ハミルトン島","en":"Hamilton Island"},
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "au-brisbane",
+      "name": {"ja":"ブリスベン","en":"Brisbane"},
+      "country_region": {"code":"AU","ja":"オーストラリア","en":"Australia"},
+      "latitude": -27.4705,
+      "longitude": 153.026,
+      "timezone": "Australia/Brisbane",
+      "category": "Population Center",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "au-perth",
+      "name": {"ja":"パース","en":"Perth"},
+      "country_region": {"code":"AU","ja":"オーストラリア","en":"Australia"},
+      "latitude": -31.952,
+      "longitude": 115.861,
+      "timezone": "Australia/Perth",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "au-sydney",
+      "name": {"ja":"シドニー","en":"Sydney"},
+      "country_region": {"code":"AU","ja":"オーストラリア","en":"Australia"},
+      "latitude": -33.869,
+      "longitude": 151.209,
+      "timezone": "Australia/Sydney",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "au-melbourne",
+      "name": {"ja":"メルボルン","en":"Melbourne"},
+      "country_region": {"code":"AU","ja":"オーストラリア","en":"Australia"},
+      "latitude": -37.8136,
+      "longitude": 144.9631,
+      "timezone": "Australia/Melbourne",
+      "category": "Population Center",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "au-tasmania-hobart",
+      "name": {"ja":"タスマニア島（ホバート）","en":"Tasmania (Hobart)"},
+      "country_region": {"code":"AU","ja":"オーストラリア","en":"Australia"},
+      "latitude": -42.8821,
+      "longitude": 147.3272,
+      "timezone": "Australia/Hobart",
+      "category": "Tourist Island / Regional Capital",
+      "representative_point": {"ja":"ホバート","en":"Hobart"},
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "nz-auckland",
+      "name": {"ja":"オークランド","en":"Auckland"},
+      "country_region": {"code":"NZ","ja":"ニュージーランド","en":"New Zealand"},
+      "latitude": -36.849,
+      "longitude": 174.763,
+      "timezone": "Pacific/Auckland",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "nz-wellington",
+      "name": {"ja":"ウェリントン","en":"Wellington"},
+      "country_region": {"code":"NZ","ja":"ニュージーランド","en":"New Zealand"},
+      "latitude": -41.287,
+      "longitude": 174.776,
+      "timezone": "Pacific/Auckland",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "us-honolulu",
+      "name": {"ja":"ホノルル","en":"Honolulu"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 21.307,
+      "longitude": -157.858,
+      "timezone": "Pacific/Honolulu",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "us-maui-kahului",
+      "name": {"ja":"マウイ島（カフルイ）","en":"Maui (Kahului)"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 20.8893,
+      "longitude": -156.4729,
+      "timezone": "Pacific/Honolulu",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"カフルイ","en":"Kahului"},
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "us-hawaii-big-island-kona",
+      "name": {"ja":"ハワイ島（コナ）","en":"Hawaii Big Island (Kona)"},
+      "country_region": {"code":"US","ja":"アメリカ合衆国","en":"United States"},
+      "latitude": 19.64,
+      "longitude": -155.9969,
+      "timezone": "Pacific/Honolulu",
+      "category": "Tourist Island",
+      "representative_point": {"ja":"コナ","en":"Kona"},
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "mp-saipan",
+      "name": {"ja":"サイパン","en":"Saipan"},
+      "country_region": {"code":"MP","ja":"北マリアナ諸島","en":"Northern Mariana Islands"},
+      "latitude": 15.1833,
+      "longitude": 145.75,
+      "timezone": "Pacific/Saipan",
+      "category": "Tourist Island",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "gu-guam",
+      "name": {"ja":"グアム","en":"Guam"},
+      "country_region": {"code":"GU","ja":"グアム","en":"Guam"},
+      "latitude": 13.476,
+      "longitude": 144.749,
+      "timezone": "Pacific/Guam",
+      "representative_point": {"ja":"ハガニア","en":"Hagatna"},
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "pf-bora-bora-french-polynesia",
+      "name": {"ja":"ボラボラ島","en":"Bora Bora (French Polynesia)"},
+      "country_region": {"code":"PF","ja":"フランス領ポリネシア","en":"French Polynesia"},
+      "latitude": -16.5004,
+      "longitude": -151.7415,
+      "timezone": "Pacific/Tahiti",
+      "category": "Tourist Island",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "pf-tahiti-papeete",
+      "name": {"ja":"タヒチ島（パペーテ）","en":"Tahiti (Papeete)"},
+      "country_region": {"code":"PF","ja":"フランス領ポリネシア","en":"French Polynesia"},
+      "latitude": -17.5516,
+      "longitude": -149.5584,
+      "timezone": "Pacific/Tahiti",
+      "category": "Tourist Island / Capital",
+      "representative_point": {"ja":"パペーテ","en":"Papeete"},
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "fj-nadi-fiji",
+      "name": {"ja":"ナンディ","en":"Nadi (Fiji)"},
+      "country_region": {"code":"FJ","ja":"フィジー","en":"Fiji"},
+      "latitude": -17.798,
+      "longitude": 177.4167,
+      "timezone": "Pacific/Fiji",
+      "category": "Tourist Hub",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "fj-suva",
+      "name": {"ja":"スバ","en":"Suva"},
+      "country_region": {"code":"FJ","ja":"フィジー","en":"Fiji"},
+      "latitude": -18.141,
+      "longitude": 178.441,
+      "timezone": "Pacific/Fiji",
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "nc-new-caledonia-noumea",
+      "name": {"ja":"ニューカレドニア（ヌメア）","en":"New Caledonia (Noumea)"},
+      "country_region": {"code":"NC","ja":"ニューカレドニア","en":"New Caledonia"},
+      "latitude": -22.2758,
+      "longitude": 166.458,
+      "timezone": "Pacific/Noumea",
+      "category": "Tourist Island / Capital",
+      "representative_point": {"ja":"ヌメア","en":"Noumea"},
+      "geographic_region": "oceania"
+    },
+    {
+      "id": "cl-easter-island",
+      "name": {"ja":"イースター島","en":"Easter Island"},
+      "country_region": {"code":"CL","ja":"チリ","en":"Chile"},
+      "latitude": -27.15,
+      "longitude": -109.433,
+      "timezone": "Pacific/Easter",
+      "representative_point": {"ja":"ハンガ・ロア","en":"Hanga Roa"},
+      "geographic_region": "oceania"
+    }
+  ]
+}
